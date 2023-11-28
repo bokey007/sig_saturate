@@ -7,7 +7,7 @@ Highlights:
 4. Set / change the properties of input signal
 5. Visualise the input and output signal
 
-### Chechout the Demo hosted at [Link](https://huggingface.co/spaces/bokey/auto_ner)
+### Chechout the Demo hosted at [Link](https://huggingface.co/spaces/bokey/sig_saturate)
 
 ## Installation
 
@@ -36,8 +36,6 @@ sig_saturate.run
 sig_saturate.run --port 8080
 ```
 Above command can be used to specify the port on which you want to run the app.
-
-## Application Workflow
 
 ## Demo
 ![](https://github.com/bokey007/sig_saturate/blob/main/doc_images/Sig_saturate_Screenshot.png)
