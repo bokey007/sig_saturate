@@ -40,7 +40,7 @@ Above command can be used to specify the port on which you want to run the app.
 ## Application Workflow
 
 ## Demo
-![](https://github.com/bokey007/auto_ner/blob/main/doc_images/auto_ner_corrected.gif)
+![](https://github.com/bokey007/sig_saturate/blob/main/doc_images/Sig_saturate_Screenshot.png)
 
 ## Solution is implemnted in following three steps 
 1. Generate input siganls as per user inputs
