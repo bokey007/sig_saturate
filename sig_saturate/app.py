@@ -35,8 +35,8 @@ def main():
     natural_frequency = st.sidebar.slider('Natural Frequency', 0.01, 5.0, 0.1, step=0.01)
     
     # Sliders for lower and upper saturation limits
-    lower_saturation_limit = st.sidebar.slider('Lower Saturation Limit', -2.0, 2.0, -0.1, step=0.1)
-    upper_saturation_limit = st.sidebar.slider('Upper Saturation Limit', -2.0, 2.0, 0.1, step=0.1)
+    lower_saturation_limit = st.sidebar.slider('Lower Saturation Limit', -2.0, 2.0, -0.1, step=0.01)
+    upper_saturation_limit = st.sidebar.slider('Upper Saturation Limit', -2.0, 2.0, 0.1, step=0.01)
 
     # Sidebar for input signal parameters
     st.sidebar.header('Input Signal Parameters')
